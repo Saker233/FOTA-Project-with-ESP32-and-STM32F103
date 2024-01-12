@@ -1,8 +1,8 @@
 # FOTA-Project-with-ESP32-and-STM32F103
 
-In this project I impelmented UART Bootloader which takes a the .hex file from ESP32 wifi module
+In this project I impelmented UART Bootloader which takes a the .bin file from ESP32 wifi module
 
-The ESP32 takes the .hex file from Google firebase over the internet
+The ESP32 takes the .bin file from Google firebase over the internet
 
 ESP32 "Download" the code and store it in its flash memory and after that it communciate with the STM32 over UART to trasnfer the .hex file after parsing it
 
