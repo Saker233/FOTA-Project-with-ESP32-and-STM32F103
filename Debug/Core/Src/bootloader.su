@@ -1,0 +1,13 @@
+../Core/Src/bootloader.c:28:11:BL_FetchHostCommand	16	static
+../Core/Src/bootloader.c:71:6:BL_SendMessage	112	static
+../Core/Src/bootloader.c:82:17:BL_CRC_Verify	40	static
+../Core/Src/bootloader.c:106:13:BL_Send_ACK	24	static
+../Core/Src/bootloader.c:113:13:BL_Send_NACK	16	static
+../Core/Src/bootloader.c:122:13:BL_Get_Version	32	static
+../Core/Src/bootloader.c:145:13:BL_Get_Help	32	static
+../Core/Src/bootloader.c:166:13:BL_Get_Chip_Identification_Number	24	static
+../Core/Src/bootloader.c:189:13:BL_Flash_Erase	32	static
+../Core/Src/bootloader.c:216:16:Preform_Flash_Erase	40	static
+../Core/Src/bootloader.c:272:13:BL_Write_Data	32	static
+../Core/Src/bootloader.c:317:16:BL_Address_Verfication	24	static
+../Core/Src/bootloader.c:335:16:Flash_Memory_Payload_Write	48	static
